@@ -11,10 +11,10 @@
 <br>
 
 **Access to File**
-> ssh Administrator@<IP Address>
+> ssh Administrator@{IP Address}
 > 
 > exit
 <br>
 
 **Copy/paste**
-> scp Administrator@<IP Address>:<File_Path> Desktop 
+> scp Administrator@{IP Address}:{File_Path} Desktop 
