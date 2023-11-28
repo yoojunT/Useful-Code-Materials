@@ -15,6 +15,7 @@
 >
 > 
 > conda activate {environment}
+> pip install notebook
 
 </br>
 
