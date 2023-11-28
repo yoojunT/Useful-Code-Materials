@@ -18,5 +18,12 @@
 
 </br>
 
+### Delete Conda Virtual Env
+> conda remove --name {environment} --all
+
+</br>
+
 ### Update Kernel
 > python -m ipykernel install --user --name {environment} --display-name {environment}
+
+
